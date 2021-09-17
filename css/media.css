@@ -1,0 +1,506 @@
+@media(max-width:2560px){
+    .navbar-brand{
+        display: none;
+    }
+    
+}
+@media(max-width:1440px){
+    .navbar-brand{
+        display: none;
+    }
+    
+}
+
+
+
+
+
+@media(max-width:1199px){
+    .navbar-brand{
+        display: none;
+    }
+    
+
+
+}
+
+
+
+@media(max-width:1024px){
+    .navbar-brand{
+        display: none;
+    }
+}
+
+
+
+
+
+
+@media(max-width:991px){
+    .HeaderUP_Section {
+        display: none;
+    }
+    .appointment{
+        display: none;
+    }
+    .banner_text h4{
+        font-size: 39px;
+    }
+    .banner_text h1{
+        font-size: 32px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:768px){
+    .HeaderUP_Section{
+        display: none;
+    }
+   
+    .navbar-brand{
+        width: 47%;
+    }
+    .navbar-brand img{
+        width: 70%;
+    }
+  
+    .appointment_icon h1{
+        font-size: 20px;
+    }
+    .appointment{
+        display: none;
+    }
+    .control{
+        text-align: center;
+        width: 100%;
+        margin: auto;
+    }
+}
+
+
+
+
+
+
+@media(max-width:767px){
+    .ban-img{
+        display: none;
+    }
+    .banner_text h1{
+        font-size: 42px;
+    }
+    .banner_text h4{
+        margin-top: 30px;
+    }
+    .Welcme_content h1{
+        font-size: 28px;
+    }
+    .Welcme_content p{
+        font-size:15px;
+    }
+}
+
+
+
+
+
+
+
+
+@media(max-width: 767px){
+    .home .carousel-control-next, 
+    .home .carousel-control-prev{
+        display: none;
+    }
+    .home .carousel-indicators li{
+        height: 60px;
+        width: 60px;
+    }
+    .home .carousel-item h2{
+        font-size: 45px;
+    }
+    .home .carousel-item p{
+        font-size: 22px;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:575px){
+    .banner_text h4{
+        margin-top: 40px;
+    }
+
+    .icon_parents {
+        display: none;
+    }
+    .HeaderUP_Section {
+        display: none;
+    }
+    .appointment{
+        display: none;
+    }
+   
+    .owl-carousel .owl-item img{
+        display: none;
+    }
+  
+    .Welcme_content h1{
+        font-size: 25px;
+    }
+    .Welcme_content p {
+        font-size: 15px;
+       
+    }
+    .meet_content h1{
+        font-size: 25px;
+    }
+    .meet_content p{
+        font-size: 15px;
+    }
+    .icon_content_control{
+        text-align: center;
+    }
+    .Pricing_Plan_Card h2{
+        font-size: 25px;
+    }
+    .Pricing_Plan_Card h5{
+        font-size: 13px;
+    }
+    .Pricing_Plan_Card h1{
+        font-size: 35px;
+    }
+    .Pricing_Plan_Card p{
+        font-size: 17px;
+    }
+    .recent_logo {
+        text-align: center;
+    }
+    .recent_content p {
+        font-size: 15px;
+        text-align: center;
+       
+    }
+    .Newsletter {
+        margin-top: 40px;
+    }
+    .follow_us h1{
+        display: none;
+    }
+    .footer_list {
+       
+        width: 90%;
+        margin: auto;
+    }
+    .post_img_content h1 {
+        margin: 39px;
+      
+        text-align: center;
+    }
+    .recent_contact_icon{
+        margin-left: 20%;
+    }
+    .banner_text h1{
+        font-size: 43px;
+    }
+}
+
+
+
+
+@media(max-width:425px){
+   
+    input[type="text"]{
+        margin-bottom: 30px;
+    }
+    footer h4{
+        font-size: 16px;
+    }
+    .banner_text h4 {
+        font-size: 21px;
+        margin-top: 37px;
+    }
+    .banner_text  h1{
+        width: 90%;
+        font-size: 19px;
+        padding: 10px 18px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+@media(max-width:375px){
+    .banner_text  h1{
+        width: 90%;
+        font-size: 19px;
+        padding: 10px 18px;
+    }
+    .banner_text p{
+        font-size: 12px;
+    }
+    .Banner_content{
+    
+      
+        text-align: left;
+        margin-left: 30px;
+    }
+
+    
+
+    .navbar-brand{
+        width: 70%;
+    }
+    .navbar-brand img{
+        width: 75%;
+    }
+    .Banner_content{
+    
+      
+        text-align: left;
+        margin-left: 10px;
+    }
+    .Banner_content h1{
+        font-size: 22px;
+    }
+    .LearnMore {
+       
+        padding: 10px 15px;
+     
+        font-size: 15px;
+       
+      
+    }
+    .BookNow{
+        padding: 10px 15px;
+     
+        font-size: 15px;
+       
+    }
+    .meet_allContent{
+        width: 90%;
+    }
+    
+    .meet_content p{
+        font-size: 13px;
+    }
+    .recent_contact_icon{
+        margin-left: -13%;
+    }
+    .signUp{
+        margin-top: 20px;
+    }
+    footer h4{
+        font-size: 16px;
+    }
+    .welcome_img{
+        display: none;
+    }
+   
+    .Banner_content p{
+        font-size: 13px;
+    }
+    .welcome_icon i{
+        font-size: 25px;
+    }
+    .Welcme_content h1{
+        font-size: 18px;
+    }
+    .Welcme_content p{
+        font-size: 13px;
+    }
+    .icon_content h2{
+        font-size: 18px;
+    }
+    .icon_content p{
+        font-size: 12px;
+    }
+    .tooth_icon i{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .tooth_extraction h2{
+        font-size: 22px;
+    }
+    .sign_up {
+    
+        padding: 7px 15px;
+  
+        font-size: 14px;
+       
+      
+    }
+    .Pricing_Plan_Card p{
+        font-size: 12px;
+    }
+    .Pricing_Plan_Card h1{
+        font-size: 30px;
+    }
+    .Pricing_Plan_Card h1 span{
+        font-size: 15px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        display: inline-block;
+    }
+    li.nav-item{
+        margin-bottom: 10px;
+    }
+    .banner_text h4 {
+        font-size: 21px;
+        margin-top: 37px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:320px){
+    
+    .navbar-light .navbar-brand {
+      
+        width: 70%;
+    }
+    .navbar-brand img {
+        width: 75%;
+    }
+    .banner_text  h1{
+        width: 90%;
+        font-size: 19px;
+        padding: 10px 18px;
+    }
+    .banner_text p{
+        font-size: 12px;
+    }
+    .Banner_content{
+    
+      
+        text-align: left;
+        margin-left: 30px;
+    }
+    .navbar-brand img {
+        width: 75%;
+    }
+    .banner_text h4{
+        font-size: 21px;
+        margin-top: 37px;
+    }
+   
+    .banner_text h1 p{
+        font-size: 13px;
+    }
+    .btn_learn{
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .btn_book{
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .tooth_extraction h3{
+        font-size: 14px;
+    }
+    .tooth_extraction p{
+        font-size: 13px;
+    }
+    .tooth_extraction h2{
+        font-size: 16px;
+    }
+    .tooth_icon {
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+    
+    }
+    .Banner_content p{
+        font-size: 13px;
+    }
+    .LearnMore{
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .BookNow{
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .tooth_extraction h3{
+        font-size: 14px;
+    }
+    .tooth_extraction p{
+        font-size: 13px;
+    }
+    .tooth_extraction h2{
+        font-size: 16px;
+    }
+    .tooth_icon {
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .icon_list ul li{
+        width: 35px;
+        height: 35px;
+        line-height: 31px;
+    }
+    .icon_list ul li a i{
+        font-size: 18px;
+    }
+    .icon_list ul{
+        top: 20%;
+        left: 6%;
+    }
+    .sign_up{
+        padding: 10px 30px;
+    }
+}
